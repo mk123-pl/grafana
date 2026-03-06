@@ -1,7 +1,17 @@
 [
-  {"Data":"2026-03-01","wrkctrid":"Krajalnia1","I_zmiana":0,"II_zmiana":0,"III_zmiana":1},
-  {"Data":"2026-03-01","wrkctrid":"Prasy1","I_zmiana":0,"II_zmiana":0,"III_zmiana":0},
-  {"Data":"2026-03-01","wrkctrid":"Pila1","I_zmiana":0,"II_zmiana":0,"III_zmiana":0},
-  {"Data":"2026-03-01","wrkctrid":"LaserProd","I_zmiana":0,"II_zmiana":0,"III_zmiana":1},
-  {"Data":"2026-03-01","wrkctrid":"LaserUsl","I_zmiana":0,"II_zmiana":0,"III_zmiana":1}
+  {
+    "FILTR": "MKDKS1I",
+    "Data": "2026-03-06",
+    "Ilość osób": 7
+  },
+  {
+    "FILTR": "MKDKS1II",
+    "Data": "2026-03-06",
+    "Ilość osób": 3
+  },
+  {
+    "FILTR": "MKDKS1III",
+    "Data": "2026-03-06",
+    "Ilość osób": 9
+  }
 ]
